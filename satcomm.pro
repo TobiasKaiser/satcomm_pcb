@@ -1,4 +1,4 @@
-update=Monday, March 20, 2017 'PMt' 06:23:29 PM
+update=Tuesday, March 21, 2017 'AMt' 12:00:57 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=tsp61027
+LibName31=lm1117
