@@ -1,4 +1,4 @@
-update=Tuesday, March 21, 2017 'AMt' 12:00:57 AM
+update=Wednesday, March 22, 2017 'PMt' 11:42:03 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/Users/tobias/Workspace/mornkicadlib
+LibDir=/Users/tobias/Workspace/MornsPartLib/schematic;/Users/tobias/Workspace/MornsPartLib/footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,5 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=tsp61027
-LibName31=lm1117
+LibName30=MornsPMIC
